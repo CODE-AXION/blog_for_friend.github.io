@@ -1204,6 +1204,46 @@ margin-left: 10px;
 @media only screen and (max-width: 470px) {
 
 
+	
+	
+    .pasta_blog {
+    font-size: 1.7rem;
+    font-family: system-ui;
+    font-weight: bolder;
+    color: #8f61f7;
+  }
+  
+  .pasta_blog_1{
+    font-size: 1.4rem;
+  }
+  .hero_image_meme{
+    height: unset;
+  }
+
+  .blog__para_1 {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+
+  .btn--get-started-text {
+    background: #4776E6;
+    background: -webkit-linear-gradient(to right, #8E54E9, #4776E6);
+    background: linear-gradient(to right, #8E54E9, #4776E6);
+    width: fit-content;
+    padding-inline: 15px;
+    padding-block: 10px;
+    border-radius: 5px;
+    border: none;
+  }
+
+  .btn--get-started-link {
+    color: white;
+    font-size: 1.3rem;
+}
+	
+	
+	
 
 
   .wrapper {
